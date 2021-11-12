@@ -4,5 +4,25 @@
   },
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "name": "skriptdevelopment",
+  "description": "Thanks for downloading this template!",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "build": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brennanbrown/portfolio.git"
+  },
+  "keywords": [
+    "SkriptDevelopment"
+  ],
+  "author": "VolgendeWeek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brennanbrown/portfolio/issues"
+  },
+  "homepage": "https://github.com/brennanbrown/portfolio#readme"
 }
